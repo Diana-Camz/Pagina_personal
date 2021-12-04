@@ -1,0 +1,92 @@
+.inicio{
+    background-color: rgb(230, 159, 159);
+    
+    }
+
+h1 {
+    color: rgb(230, 217, 225);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+h3 {
+    color: grey;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.botones {
+    align-items: center;
+
+}
+
+.comidaCSS{
+    background-color: rgba(178, 240, 235, 0.856);
+
+}
+
+.a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;    
+}
+
+.liComida {
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: bold;
+}
+
+ol {
+    font-weight:lighter;
+}
+
+.musicaCSS{
+    background-color: rgba(178, 240, 235, 0.856);
+}
+
+.b{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold; 
+}
+
+.liMusica {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.peliculasCSS{
+    background-color: rgba(178, 240, 235, 0.856);
+}
+
+.c{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold; 
+}
+
+.liPeliculas {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.lugaresCSS{
+    background-color: rgba(178, 240, 235, 0.856);
+}
+
+.d{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold; 
+}
+
+.liLugares {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
