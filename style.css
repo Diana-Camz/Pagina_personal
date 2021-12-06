@@ -18,8 +18,9 @@ h3 {
 }
 
 .botones {
-    align-items: center;
-
+    text-align: center;
+    margin: 1rem;
+    padding: 1rem;
 }
 
 .comidaCSS, .lugaresCSS, .musicaCSS, .peliculasCSS{
@@ -32,13 +33,23 @@ h3 {
     text-align: center;
     font-size: 30px;
     font-weight: bold;    
+    border: solid 3px;
+    border-radius: 5px 30px 5px 30px;
 }
 
 .liComida, .liMusica, .liLugares, .liPeliculas {
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
 }
 
 ol {
     font-weight:lighter;
+}
+
+.img1 {
+border: solid 1px;
+display:block;
+margin-left: 50%;
+margin-right: 50%;
+
 }
